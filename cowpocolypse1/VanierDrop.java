@@ -18,8 +18,8 @@ public class VanierDrop extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(600, 400, 1); 
-        modifiedText("COWPOCALYPSE", 190,100);
-        modifiedText1("Presented by:", 1,250);
+        modifiedText("COWPOCALYPSE", 125,205);
+        modifiedText1("Presented by:", 1,270);
         modifiedText2("Gideon Eleboda", 1,310);
         modifiedText2("Jean Charles Prince Byiringiro", 1,350);
         modifiedText2("Anthonyy Siggia", 1,390);
@@ -34,7 +34,7 @@ public class VanierDrop extends World
         GreenfootImage bg = getBackground();
         Font font = new Font(40);
         bg.setFont(font);
-        bg.setColor(Color.RED);
+        bg.setColor(Color.WHITE);
         bg.drawString(message,x,y);
         
     }
