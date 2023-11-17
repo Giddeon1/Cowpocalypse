@@ -73,6 +73,6 @@ target6.x=0
 target6.y=0
 version=3.0.0
 width=1382
-world.lastInstantiated=VanierDrop
+world.lastInstantiated=splashScreen
 xPosition=355
 yPosition=188
