@@ -18,11 +18,11 @@ public class VanierDrop extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(600, 400, 1); 
-        modifiedText("Vanier Project", 200,100);
+        modifiedText("COWPOCALYPSE", 190,100);
         modifiedText1("Presented by:", 1,250);
         modifiedText2("Gideon Eleboda", 1,310);
-        modifiedText2("P", 1,350);
-        modifiedText2("A", 1,390);
+        modifiedText2("Jean Charles Prince Byiringiro", 1,350);
+        modifiedText2("Anthonyy Siggia", 1,390);
         
         
         
